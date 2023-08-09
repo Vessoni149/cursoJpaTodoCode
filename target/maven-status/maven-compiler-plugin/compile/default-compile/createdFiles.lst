@@ -1,0 +1,9 @@
+org\example\Logica\Carrera.class
+org\example\Persistencia\AlumnoJpaController.class
+org\example\Persistencia\CarreraJpaController.class
+org\example\Logica\Alumno.class
+org\example\Logica\Controladora.class
+org\example\Logica\Materia.class
+org\example\Persistencia\ControladoraPersistencia.class
+org\example\Persistencia\exceptions\IllegalOrphanException.class
+org\example\Persistencia\exceptions\NonexistentEntityException.class
